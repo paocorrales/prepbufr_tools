@@ -1,0 +1,1 @@
+gfortran m_vars_global.f90 m_filter_obs.f90 m_read_namelist.f90 prepbufr_gen.f90 -o ../run/filter_obs.x -L/home/paola.corrales/datosmunin3/comGSIv3.7_EnKFv1.3/build/lib/ -lbufr_v10.2.5 -L/opt/w3lib-2.0.6/ -lw3
