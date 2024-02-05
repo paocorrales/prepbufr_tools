@@ -1,0 +1,10 @@
+----------------- namelist_conv_PREPOBS -----------------
+
+&namelist_con
+data_prepbufr= 2018111720
+dir_salida_pb= '../example_obs/'
+new_prepbufr= 'cimap.20181117.t20z.01h.prepbufr.nqc'
+/
+ADPSFC ../example_obs/2018111719.csv
+ADPSFC ../example_obs/2018111720.csv
+------------
