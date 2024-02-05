@@ -1,0 +1,9 @@
+----------------- namelist_conv_PREPRW -----------------
+
+&namelist_con
+new_date_ana= 2018111719
+dir_salida_pb= '../example_obs/'
+new_prepbufr= 'new_prepbufr'
+window= 1.0
+/
+../example_obs/prepbufr.gdas.20181117.t18z.nr.48h 
